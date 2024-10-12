@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "e29969ba31de2f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2b5784995eb861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e97d00543ff7de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71b493d07fa28503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0️⃣0️⃣/0️⃣0️⃣.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed870dbbeb9c5024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1️⃣0️⃣/1️⃣0️⃣.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "907c2f5a7a07ecd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2d905070a085e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3142812c8294364f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb5e457af2eec6b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"source_KLD/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e37d3c5a9624ba37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.5
+  },
+  "right": {
+    "id": "716dfd26903393b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e83477b75257791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "825cada821575ba6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1️⃣0️⃣/1️⃣0️⃣.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3b81608d921a8d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1️⃣0️⃣/1️⃣0️⃣.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e16d7b52d8dcd76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2dddcca3f8ec4f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1️⃣0️⃣/1️⃣0️⃣.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fileorganizer2000:Fo2k Chat": false,
+      "fileorganizer2000:Fo2k Assistant View": false
+    }
+  },
+  "active": "ed870dbbeb9c5024",
+  "lastOpenFiles": [
+    "_FileOrganizer2000/Backups",
+    "_FileOrganizer2000/Logs",
+    "_FileOrganizer2000/Processed/Attachments",
+    "_FileOrganizer2000/Processed",
+    "_FileOrganizer2000/Inbox",
+    "content/index.md",
+    "content/category-folder/Some note.md",
+    "content/category-folder/index.md",
+    "README.md",
+    "0️⃣0️⃣/Copyright/Non-commercial/Non-commercial_.md",
+    "CODE_OF_CONDUCT.md",
+    "Dockerfile",
+    "LICENSE.txt",
+    "globals.d.ts",
+    "index.d.ts",
+    "package-lock.json",
+    "package.json",
+    "docs/tags/component.md",
+    "docs/tags/plugin.md",
+    "docs/plugins/TagPage.md",
+    "docs/plugins/TableOfContents.md",
+    "docs/plugins/SyntaxHighlighting.md",
+    "docs/plugins/Static.md",
+    "docs/plugins/RoamFlavoredMarkdown.md",
+    "docs/plugins/RemoveDrafts.md",
+    "docs/plugins/OxHugoFlavoredMarkdown.md",
+    "docs/plugins/ObsidianFlavoredMarkdown.md",
+    "docs/plugins/NotFoundPage.md",
+    "docs/plugins/Latex.md",
+    "docs/plugins/index.md",
+    "docs/plugins/GitHubFlavoredMarkdown.md",
+    "docs/plugins/HardLineBreaks.md",
+    "docs/plugins/Frontmatter.md",
+    "docs/plugins/FolderPage.md",
+    "docs/plugins/ExplicitPublish.md",
+    "docs/plugins/Description.md",
+    "docs/images/quartz-layout-tablet.png",
+    "docs/images/quartz-layout-mobile.png",
+    "docs/images/quartz-layout-desktop.png",
+    "docs/images/quartz transform pipeline.png",
+    "docs/images/github-init-repo-options.png",
+    "docs/images/github-quick-setup.png",
+    "docs/images/giscus-results.png",
+    "docs/images/giscus-repo.png",
+    "docs/images/giscus-example.png",
+    "docs/images/dns records.png",
+    "0️⃣0️⃣/✍️ Draft/Markdown/Markdown_G.canvas"
+  ]
+}

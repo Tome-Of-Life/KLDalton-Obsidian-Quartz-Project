@@ -1,0 +1,2 @@
+KLD strives for accuracy in all that we write, aiming to be one of the most reliable sources of content on the web; however, the information on the Sites may contain errors or inaccuracies, and we do not make any warranty, representation or guarantee as to the accuracy of such information. You acknowledge that the Sites, and the information, data and materials contained on the Sites, may contain inaccuracies and errors, and we expressly exclude liability for any such inaccuracies or errors.
+[Terms of Use (valnetinc.com)](https://www.valnetinc.com/en/terms-of-use)

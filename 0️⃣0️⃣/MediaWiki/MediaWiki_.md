@@ -1,0 +1,1 @@
+[MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
