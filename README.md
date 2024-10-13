@@ -1,11 +1,14 @@
+This is a personal learning Quartz installation. See the [documentation](https://quartz.jzhao.xyz/)  for how to get started.
 # [# Obsidian / Quartz / GitHub Pages Template:Hosting](https://quartz.jzhao.xyz/hosting)
 
 GitHub repository for Quartz. If you haven’t already, [make sure you do so](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)
 
 [#-get-started](https://quartz.jzhao.xyz/#-get-started)
 
-Quartz requires **at least [Node](https://nodejs.org/) v20** and `npm` v9.3.1 to function correctly. Ensure you have this installed on your machine before continuing. NOTE: Currently running on GITHUB for deployment: 
-[Deployment_Web](content/index/Deployment_Web/Deployment_Web.md)
+Quartz requires **at least [Node](https://nodejs.org/) v20** and `npm` v9.3.1 to function correctly. Ensure you have this installed on your machine before continuing.
+	NOTE: Currently running on GITHUB for deployment: 
+[Deployment_Web](content/index/Deployment_Web/Deployment_Web.md) 
+	NOTE: Direct Quartz Web Deployment to DOCS directory.
 # Obsidian / Quartz / GitHub Pages Template:CI Deployment Section
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template

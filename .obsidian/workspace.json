@@ -177,8 +177,9 @@
   },
   "active": "2091558ba3dec64a",
   "lastOpenFiles": [
-    "README_ORG.md",
+    "docs/index.md",
     "README.md",
+    "README_ORG.md",
     "README_KLD.md",
     "README_Quartz.md",
     "Readme_Yusturg.md",
@@ -212,7 +213,6 @@
     "content/category-folder/index.md",
     "0️⃣0️⃣/Copyright/Non-commercial/Non-commercial_.md",
     "CODE_OF_CONDUCT.md",
-    "docs/tags/component.md",
     "docs/images/quartz-layout-tablet.png",
     "docs/images/quartz-layout-mobile.png",
     "docs/images/quartz-layout-desktop.png",
