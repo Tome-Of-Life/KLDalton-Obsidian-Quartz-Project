@@ -14,6 +14,13 @@ Quartz requires **at least [Node](https://nodejs.org/) v20** and `npm` v9.
 			github-pages Last[deployed](https://github.com/Tome-Of-Life/KLDalton-Obsidian-Quartz-Project/actions/runs/11313728035/job/31462832481) # minutes ago
 
 [https://tome-of-life.github.io/KLDalton-Obsidian-Quartz-Project/](https://tome-of-life.github.io/KLDalton-Obsidian-Quartz-Project/)
+
+GITHUB/PAGES/ 
+Configuration for location: MAIN/DOCS/
+	ISSUE with starting page. 
+			Currently showing readme from main/root,
+			My understanding this option should be showing index from DOCS directory. It did at one point.
+			
 # Obsidian / Quartz / GitHub Pages Template:CI Deployment Section
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
