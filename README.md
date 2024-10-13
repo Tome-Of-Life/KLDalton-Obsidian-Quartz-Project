@@ -9,6 +9,11 @@ Quartz requires **at least [Node](https://nodejs.org/) v20** and `npm` v9.
 	NOTE: Currently running on GITHUB for deployment: 
 [Deployment_Web](content/index/Deployment_Web/Deployment_Web.md) 
 	NOTE: Direct Quartz Web Deployment to DOCS directory.
+			## GitHub Pages
+			Patient need for update to happen after uploads.
+			github-pages Last[deployed](https://github.com/Tome-Of-Life/KLDalton-Obsidian-Quartz-Project/actions/runs/11313728035/job/31462832481) # minutes ago
+
+[https://tome-of-life.github.io/KLDalton-Obsidian-Quartz-Project/](https://tome-of-life.github.io/KLDalton-Obsidian-Quartz-Project/)
 # Obsidian / Quartz / GitHub Pages Template:CI Deployment Section
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
