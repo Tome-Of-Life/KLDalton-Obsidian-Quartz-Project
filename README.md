@@ -31,3 +31,8 @@ I made the "raw HTML" option for people who are generating HTML UI's with Claude
 > NOTE: Setup {EXT}{DOT}ts to default to NOTEPAD++
 
 https://quartz.jzhao.xyz/configuration
+
+Created with [Quartz v#](https://quartz.jzhao.xyz/), © 2024
+
+- [GitHub](https://github.com/jackyzha0/quartz)
+- [Discord Community](https://discord.gg/cRFFHYye7t)
