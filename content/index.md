@@ -1,7 +1,6 @@
 ---
-title: My GitHub Pages Notebook!
+title: Yusturg
 ---
+# welcome to a world a wonder
 
-Hello world!
 
-Write some words here!

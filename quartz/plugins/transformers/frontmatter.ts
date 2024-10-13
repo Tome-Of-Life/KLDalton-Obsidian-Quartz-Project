@@ -8,12 +8,12 @@ import { QuartzPluginData } from "../vfile"
 import { i18n } from "../../i18n"
 
 export interface Options {
-  delimiters: string | [string, string]
+  delims: string | string[]
   language: "yaml" | "toml"
 }
 
 const defaultOptions: Options = {
-  delimiters: "---",
+  delims: "---",
   language: "yaml",
 }
 
@@ -40,7 +40,7 @@ function coerceToArray(input: string | string[]): string[] | undefined {
     .map((tag: string | number) => tag.toString())
 }
 
-export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
+export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "FrontMatter",
@@ -57,9 +57,9 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               },
             })
 
-            if (data.title != null && data.title.toString() !== "") {
+            if (data.title) {
               data.title = data.title.toString()
-            } else {
+            } else if (data.title === null || data.title === undefined) {
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
 
@@ -90,7 +90,6 @@ declare module "vfile" {
         description: string
         publish: boolean
         draft: boolean
-        lang: string
         enableToc: string
         cssclasses: string[]
       }>

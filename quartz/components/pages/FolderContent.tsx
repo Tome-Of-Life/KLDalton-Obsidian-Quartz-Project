@@ -1,8 +1,8 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import path from "path"
 
 import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
+import { PageList } from "../PageList"
 import { stripSlashes, simplifySlug } from "../../util/path"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
@@ -13,7 +13,6 @@ interface FolderContentOptions {
    * Whether to display number of folders
    */
   showFolderCount: boolean
-  sort?: SortFn
 }
 
 const defaultOptions: FolderContentOptions = {
@@ -23,7 +22,7 @@ const defaultOptions: FolderContentOptions = {
 export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
 
-  const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
+  function FolderContent(props: QuartzComponentProps) {
     const { tree, fileData, allFiles, cfg } = props
     const folderSlug = stripSlashes(simplifySlug(fileData.slug!))
     const allPagesInFolder = allFiles.filter((file) => {
@@ -38,7 +37,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const classes = ["popover-hint", ...cssClasses].join(" ")
     const listProps = {
       ...props,
-      sort: options.sort,
       allFiles: allPagesInFolder,
     }
 
@@ -49,7 +47,9 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     return (
       <div class={classes}>
-        <article>{content}</article>
+        <article>
+          <p>{content}</p>
+        </article>
         <div class="page-listing">
           {options.showFolderCount && (
             <p>

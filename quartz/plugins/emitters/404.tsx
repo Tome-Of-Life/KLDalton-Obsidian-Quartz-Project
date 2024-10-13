@@ -46,7 +46,6 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
         frontmatter: { title: notFound, tags: [] },
       })
       const componentData: QuartzComponentProps = {
-        ctx,
         fileData: vfile.data,
         externalResources,
         cfg,

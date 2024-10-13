@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0️⃣0️⃣/0️⃣0️⃣.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed870dbbeb9c5024",
+            "id": "2091558ba3dec64a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣0️⃣/1️⃣0️⃣.md",
+                "file": "README_KLD.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"source_KLD/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1️⃣0️⃣/1️⃣0️⃣.md",
+                "file": "README_KLD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1️⃣0️⃣/1️⃣0️⃣.md",
+                "file": "README_KLD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1️⃣0️⃣/1️⃣0️⃣.md"
+                "file": "README_KLD.md"
               }
             }
           }
@@ -175,44 +175,44 @@
       "fileorganizer2000:Fo2k Assistant View": false
     }
   },
-  "active": "ed870dbbeb9c5024",
+  "active": "2091558ba3dec64a",
   "lastOpenFiles": [
-    "_FileOrganizer2000/Backups",
-    "_FileOrganizer2000/Logs",
-    "_FileOrganizer2000/Processed/Attachments",
-    "_FileOrganizer2000/Processed",
-    "_FileOrganizer2000/Inbox",
+    "README.md",
+    "README_KLD.md",
+    "Readme_Yusturg.md",
+    "content/index/Deployment_Web/Deployment_Web.md",
+    "quartz.layout.ts..md",
+    "README_ORG.md",
+    "content/{DOT}obsidian/plugins/plugins_.md",
+    "content/index/Deployment_Web",
+    "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
+    "content/{DOT}obsidian/{DOT}.json-Files/community-plugins.json",
+    "content/{DOT}obsidian/{DOT}.json-Files/appearance.json",
+    "content/{DOT}obsidian/{DOT}.json-Files/app.json",
+    "content/{DOT}obsidian/{DOT}.json-Files/workspace.json",
+    "content/{DOT}obsidian/{DOT}.json-Files/core-plugins-migration.json",
+    "content/{DOT}obsidian/{DOT}.json-Files/core-plugins.json",
+    "content/{DOT}obsidian/{DOT}.json-Files",
+    "content/index/GIT/obsidian_%20liftskit/!obsidian_%20liftskit.md",
+    "content/index/GIT/obsidian_%20liftskit/0 - TODO/Photo Backup Server.md",
+    "content/index/GIT/obsidian_%20liftskit/0 - TODO/Personal.md",
+    "content/index/GIT/obsidian_%20liftskit/0 - TODO/Nvim.md",
+    "content/index/GIT/obsidian_%20liftskit/0 - TODO/Note Reviewer.md",
+    "content/index/GIT/obsidian_%20liftskit/0 - TODO/LiftsKit.md",
+    "content/index/GIT/obsidian_%20liftskit/0 - TODO/Learning.md",
+    "content/index/GIT/obsidian_%20liftskit/0 - TODO/Ideas.md",
+    "content/{DOT}obsidian/plugins/table-editor-obsidian",
+    "content/{DOT}obsidian/plugins/fileorganizer2000",
+    "content/{DOT}obsidian/{DOT}obsidian_.md",
+    "0️⃣0️⃣/0️⃣0️⃣.md",
     "content/index.md",
+    "1️⃣0️⃣/1️⃣0️⃣.md",
     "content/category-folder/Some note.md",
     "content/category-folder/index.md",
-    "README.md",
     "0️⃣0️⃣/Copyright/Non-commercial/Non-commercial_.md",
     "CODE_OF_CONDUCT.md",
-    "Dockerfile",
-    "LICENSE.txt",
-    "globals.d.ts",
-    "index.d.ts",
-    "package-lock.json",
-    "package.json",
     "docs/tags/component.md",
     "docs/tags/plugin.md",
-    "docs/plugins/TagPage.md",
-    "docs/plugins/TableOfContents.md",
-    "docs/plugins/SyntaxHighlighting.md",
-    "docs/plugins/Static.md",
-    "docs/plugins/RoamFlavoredMarkdown.md",
-    "docs/plugins/RemoveDrafts.md",
-    "docs/plugins/OxHugoFlavoredMarkdown.md",
-    "docs/plugins/ObsidianFlavoredMarkdown.md",
-    "docs/plugins/NotFoundPage.md",
-    "docs/plugins/Latex.md",
-    "docs/plugins/index.md",
-    "docs/plugins/GitHubFlavoredMarkdown.md",
-    "docs/plugins/HardLineBreaks.md",
-    "docs/plugins/Frontmatter.md",
-    "docs/plugins/FolderPage.md",
-    "docs/plugins/ExplicitPublish.md",
-    "docs/plugins/Description.md",
     "docs/images/quartz-layout-tablet.png",
     "docs/images/quartz-layout-mobile.png",
     "docs/images/quartz-layout-desktop.png",

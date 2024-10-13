@@ -54,7 +54,7 @@ export default {
       title: "Table des Matières",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min de lecture`,
+      readingTime: ({ minutes }) => `${minutes} min read`,
     },
   },
   pages: {
@@ -63,20 +63,19 @@ export default {
       lastFewNotes: ({ count }) => `Les dernières ${count} notes`,
     },
     error: {
-      title: "Introuvable",
+      title: "Pas trouvé",
       notFound: "Cette page est soit privée, soit elle n'existe pas.",
-      home: "Retour à la page d'accueil",
     },
     folderContent: {
       folder: "Dossier",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 élément sous ce dossier." : `${count} éléments sous ce dossier.`,
+        count === 1 ? "1 élément sous ce dossier" : `${count} éléments sous ce dossier.`,
     },
     tagContent: {
       tag: "Étiquette",
       tagIndex: "Index des étiquettes",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 élément avec cette étiquette." : `${count} éléments avec cette étiquette.`,
+        count === 1 ? "1 élément avec cette étiquette" : `${count} éléments avec cette étiquette.`,
       showingFirst: ({ count }) => `Affichage des premières ${count} étiquettes.`,
       totalTags: ({ count }) => `Trouvé ${count} étiquettes au total.`,
     },
