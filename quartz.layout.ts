@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/Tome-Of-Life/KLDalton-Obsidian-Quartz-Project/tree/main/quartz",
+      GitHub: "https://github.com/Tome-Of-Life/KLDalton-Obsidian-Quartz-Project/quartz",
     },
   }),
 }
