@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "README_Quartz.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README_KLD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README_KLD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README_KLD.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README_KLD.md"
+                "file": "README.md"
               }
             }
           }
@@ -177,12 +177,13 @@
   },
   "active": "2091558ba3dec64a",
   "lastOpenFiles": [
+    "README_ORG.md",
     "README.md",
     "README_KLD.md",
+    "README_Quartz.md",
     "Readme_Yusturg.md",
     "content/index/Deployment_Web/Deployment_Web.md",
     "quartz.layout.ts..md",
-    "README_ORG.md",
     "content/{DOT}obsidian/plugins/plugins_.md",
     "content/index/Deployment_Web",
     "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
@@ -212,7 +213,6 @@
     "0️⃣0️⃣/Copyright/Non-commercial/Non-commercial_.md",
     "CODE_OF_CONDUCT.md",
     "docs/tags/component.md",
-    "docs/tags/plugin.md",
     "docs/images/quartz-layout-tablet.png",
     "docs/images/quartz-layout-mobile.png",
     "docs/images/quartz-layout-desktop.png",
