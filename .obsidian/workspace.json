@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/{DOT}obsidian/plugins/plugins_.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/{DOT}obsidian/plugins/plugins_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/{DOT}obsidian/plugins/plugins_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,19 +150,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/{DOT}obsidian/plugins/plugins_.md"
               }
             }
+          },
+          {
+            "id": "d686e3cbfac9e9a3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fileorganizer2000:Fo2k Chat": false,
+      "fileorganizer2000:Fo2k Assistant View": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,32 +182,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fileorganizer2000:Fo2k Chat": false,
-      "fileorganizer2000:Fo2k Assistant View": false
+      "note-reviewer:Open Notification Dashboard": false,
+      "openapi-renderer:Open OpenAPI Entry View": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "disk-usage:Disk Usage Report": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2091558ba3dec64a",
+  "active": "3142812c8294364f",
   "lastOpenFiles": [
+    "content/{DOT}obsidian/plugins/obsidian-timestamper",
+    "content/{DOT}obsidian/plugins/shimmering-obsidian",
+    "content/{DOT}obsidian/plugins/page-properties",
+    "content/{DOT}obsidian/plugins/openapi-renderer",
+    "content/{DOT}obsidian/plugins/obsidian-text-finder",
+    "content/{DOT}obsidian/plugins/surfing",
+    "content/{DOT}obsidian/plugins/obsidian-better-properties",
+    "content/{DOT}obsidian/plugins/disk-usage",
+    "content/{DOT}obsidian/plugins/digitalgarden",
+    "content/{DOT}obsidian/plugins/dataview-serializer",
+    "content/{DOT}obsidian/plugins/dataview-publisher",
+    "Disk Usage Report.md",
+    "content/Things to have templates of.md",
+    "content/mindmap.canvas",
+    "content/{DOT}obsidian/plugins/plugins_.md",
+    "README.md",
+    "README_Quartz.md",
     "README_KLD.md",
     "🧠🥼🚧( ͡ຈ ͜ʖ ͡ຈ)Second_Brain.md",
     "docs/layout.md",
     "docs/index.md",
-    "README.md",
     "README_ORG.md",
-    "README_Quartz.md",
     "Readme_Yusturg.md",
     "content/index/Deployment_Web/Deployment_Web.md",
     "quartz.layout.ts..md",
-    "content/{DOT}obsidian/plugins/plugins_.md",
-    "content/index/Deployment_Web",
-    "content/{DOT}obsidian/{DOT}.json-Files/community-plugins.json",
-    "content/{DOT}obsidian/{DOT}.json-Files/appearance.json",
-    "content/{DOT}obsidian/{DOT}.json-Files/app.json",
-    "content/{DOT}obsidian/{DOT}.json-Files/workspace.json",
-    "content/{DOT}obsidian/{DOT}.json-Files/core-plugins-migration.json",
-    "content/{DOT}obsidian/{DOT}.json-Files/core-plugins.json",
-    "content/{DOT}obsidian/{DOT}.json-Files",
     "content/index/GIT/obsidian_%20liftskit/!obsidian_%20liftskit.md",
     "content/index/GIT/obsidian_%20liftskit/0 - TODO/Photo Backup Server.md",
     "content/index/GIT/obsidian_%20liftskit/0 - TODO/Personal.md",
@@ -204,15 +225,10 @@
     "content/index/GIT/obsidian_%20liftskit/0 - TODO/LiftsKit.md",
     "content/index/GIT/obsidian_%20liftskit/0 - TODO/Learning.md",
     "content/index/GIT/obsidian_%20liftskit/0 - TODO/Ideas.md",
-    "content/{DOT}obsidian/plugins/table-editor-obsidian",
-    "content/{DOT}obsidian/plugins/fileorganizer2000",
     "content/{DOT}obsidian/{DOT}obsidian_.md",
     "0️⃣0️⃣/0️⃣0️⃣.md",
     "content/index.md",
     "1️⃣0️⃣/1️⃣0️⃣.md",
-    "content/category-folder/Some note.md",
-    "content/category-folder/index.md",
-    "0️⃣0️⃣/Copyright/Non-commercial/Non-commercial_.md",
     "docs/images/quartz-layout-tablet.png",
     "docs/images/quartz-layout-mobile.png",
     "docs/images/quartz-layout-desktop.png",
